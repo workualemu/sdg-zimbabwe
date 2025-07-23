@@ -72,7 +72,7 @@ inputs:
     # source: https://zw.sdmx.afdb.org/ns-ws/rest/data/ZW1,DF_ZW_SDG,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
     # dsd: https://zw.sdmx.afdb.org/ns-ws/rest/datastructure/ZW1/SDG/1.1/?detail=Full&references=Descendants
     source: https://data.un.org/ws/rest/data/IAEG-SDGs,DF_SDG_GLH,1.21/...231.........../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
-    dsd: https://unstats.un.org/SDGMetadataAPI/api/Metadata/SDMXReport/
+    # dsd: https://unstats.un.org/SDGMetadataAPI/api/Metadata/SDMXReport/
     dimension_map:
       REF_AREA|ET: ''
     drop_dimensions:
